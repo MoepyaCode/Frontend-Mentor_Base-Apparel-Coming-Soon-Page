@@ -1,4 +1,4 @@
-# Title
+# Base Apparel coming soon page
 
 <!-- add description of project -->
 
